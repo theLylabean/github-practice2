@@ -1,2 +1,2 @@
 # github-practice2
-To improve is to chang
+To improve is to change
